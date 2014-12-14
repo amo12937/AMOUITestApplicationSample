@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  AMOApplication.h
 //  AMOUITestApplication
 //
 //  Created by amo on 2014/12/14.
@@ -8,8 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
-
+@interface AMOApplication : UIApplication
 
 @end
-
